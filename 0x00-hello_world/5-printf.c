@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - the program outputs a give phrase 
+ * main - the program outputs a give phrase
  * followed by newline.
  * Return: 0 on success.
  */
