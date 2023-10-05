@@ -3,7 +3,7 @@
 
 /**
  * main - output given string to the standard error.
- * this works by using the write function that takes 2 as value 
+ * this works by using the write function that takes 2 as value
  * Return: 0 on Success
  */
 
