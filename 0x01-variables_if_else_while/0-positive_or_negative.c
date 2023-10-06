@@ -3,8 +3,10 @@
 #include <time.h>
 
 /**
- * main - The program entry point
- * Return: 0
+ * main - The program uses the stdlib rand()
+ * to assign a random number and return if the
+ * number is positive or negative
+ * Return: 0 on success
  */
 
 int main(void)
