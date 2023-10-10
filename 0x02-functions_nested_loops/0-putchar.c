@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - Print "_putchar" followed by a new line.
- * Instruction: the standard libraries must be avoided.
+ * Description: the standard libraries should not be used.
  * Return: 0
  */
 
