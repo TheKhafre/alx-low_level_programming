@@ -2,7 +2,6 @@
 /**
  * main - Print "_putchar" followed by a new line.
  * Instruction: the standard libraries must be avoided.
- * 
  * Return: 0
  */
 
